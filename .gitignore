@@ -1,0 +1,5 @@
+# Ignore Modeling1.ipynb
+Modeling1.ipynb
+
+# Ignore files with .pkl extension
+*.pkl
